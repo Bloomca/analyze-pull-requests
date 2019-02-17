@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/Bloomca/analyze-pull-requests/issues"
   },
-  "homepage": "https://github.com/Bloomca/analyze-pull-requests#readme"
+  "homepage": "https://github.com/Bloomca/analyze-pull-requests#readme",
+  "devDependencies": {
+    "eslint": "^5.14.0",
+    "eslint-config-prettier": "^4.0.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
+  }
 }
